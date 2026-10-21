@@ -1,0 +1,502 @@
+[
+  {
+    "q": "Wat betekent economie?",
+    "options": [
+      "Keuzes maken over hoe je in je behoeften voorziet",
+      "Alleen spullen verkopen",
+      "Alleen leren over banken",
+      "Nooit geld uitgeven"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Waarom moet je keuzes maken?",
+    "options": [
+      "Je hoeft nooit te kiezen",
+      "Je hebt altijd genoeg geld",
+      "Alles is gratis",
+      "Je kunt niet alles kopen of doen"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat is een behoefte?",
+    "options": [
+      "Een bankrekening",
+      "Een kassabon",
+      "Een soort belasting",
+      "Iets wat je nodig hebt of graag wilt hebben"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wanneer ben je een consument?",
+    "options": [
+      "Als je belasting int",
+      "Als je een winkel bezit",
+      "Als je altijd iets maakt voor verkoop",
+      "Als je iets koopt voor je eigen behoeften"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat is een producent?",
+    "options": [
+      "Iemand die geld spaart",
+      "Iemand die alleen koopt",
+      "Een klant in de supermarkt",
+      "Een bedrijf dat producten maakt of diensten levert"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat doet de overheid onder andere?",
+    "options": [
+      "Alle winkels zelf bezitten",
+      "Bepalen wat iedereen moet eten",
+      "Alle producten gratis maken",
+      "Regels maken voor de economie"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Hoe schrijf je een bedrag op een betaalrekening?",
+    "options": [
+      "Met een procentteken",
+      "Met een komma tussen euro’s en centen",
+      "Met alleen een punt na elke euro",
+      "Zonder cijfers"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat is directe ruil?",
+    "options": [
+      "Een product ruilen voor een ander product",
+      "Een product kopen met geld",
+      "Geld opnemen bij een automaat",
+      "Betalen met je telefoon"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Waarom is ruilen met geld handig?",
+    "options": [
+      "Geld heeft geen waarde",
+      "Alle producten kosten hetzelfde",
+      "Je hoeft geen product te vinden dat de ander wil",
+      "Je kunt dan nooit sparen"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat is een ruilmiddel?",
+    "options": [
+      "Een soort verzekering",
+      "Een kassabon",
+      "Iets waarmee je betaalt",
+      "Een lening"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat is contant geld?",
+    "options": [
+      "Een betaalverzoek",
+      "Een banksaldo",
+      "Geld op een spaarrekening",
+      "Munten en bankbiljetten"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat is elektronisch betalen?",
+    "options": [
+      "Een product ruilen voor een ander",
+      "Een brief versturen",
+      "Betalen met bijvoorbeeld je bankpas of telefoon",
+      "Betalen met muntgeld"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat is saldo?",
+    "options": [
+      "Het bedrag dat op je bankrekening staat",
+      "De prijs van een product",
+      "Het bedrag dat je ooit hebt verdiend",
+      "Het bedrag van je verzekering"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Je saldo is €80. Je krijgt €40 en betaalt €25. Wat is je nieuwe saldo?",
+    "options": [
+      "€95",
+      "€105",
+      "€55",
+      "€120"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Je hebt €60. Je koopt iets voor €18. Hoeveel blijft er over?",
+    "options": [
+      "€48",
+      "€38",
+      "€42",
+      "€78"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat is chartaal geld?",
+    "options": [
+      "Munten en bankbiljetten",
+      "Een bankapp",
+      "Een pinpas",
+      "Geld op je bankrekening"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is giraal geld?",
+    "options": [
+      "Alleen briefgeld",
+      "Alleen muntgeld",
+      "Goud",
+      "Geld op bankrekeningen"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat gebeurt er als je geld opneemt bij een geldautomaat?",
+    "options": [
+      "Chartaal geld wordt giraal geld",
+      "Je geld verdubbelt",
+      "Giraal geld wordt chartaal geld",
+      "Je saldo stijgt altijd"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat zijn basisbehoeften?",
+    "options": [
+      "Alleen games",
+      "Alleen vakanties",
+      "Alleen dure spullen",
+      "Dingen die je echt nodig hebt om te leven"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat is een voorbeeld van een basisbehoefte?",
+    "options": [
+      "Een nieuwe spelcomputer",
+      "Een luxe horloge",
+      "Een vakantie",
+      "Eten en drinken"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat zijn overige behoeften?",
+    "options": [
+      "Alleen noodzakelijke medische hulp",
+      "Alleen drinkwater",
+      "Alleen eten",
+      "Dingen die het leven leuker of makkelijker maken"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Waarom hebben mensen verschillende behoeften?",
+    "options": [
+      "Iedereen verdient hetzelfde",
+      "Ze verschillen bijvoorbeeld in leeftijd, smaak en inkomen",
+      "Iedereen woont hetzelfde",
+      "Iedereen wil precies hetzelfde"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat is een goed?",
+    "options": [
+      "Een tastbaar product",
+      "Een knipbeurt",
+      "Een reparatie",
+      "Een adviesgesprek"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is een dienst?",
+    "options": [
+      "Een niet-tastbaar product, zoals een reparatie",
+      "Een brood",
+      "Een trui",
+      "Een fiets"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is zelfvoorziening?",
+    "options": [
+      "Altijd geld lenen",
+      "Zelf maken of doen wat je nodig hebt",
+      "Alleen online bestellen",
+      "Alles in de winkel kopen"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat betekent consumeren?",
+    "options": [
+      "Rente betalen",
+      "Goederen of diensten kopen voor je behoeften",
+      "Belasting heffen",
+      "Producten maken voor verkoop"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Hoe kun je informatie over een product krijgen?",
+    "options": [
+      "Door de prijs te verbergen",
+      "Door reviews te lezen",
+      "Door de verpakking weg te gooien",
+      "Door niet te vergelijken"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Waaraan herken je goede productinformatie?",
+    "options": [
+      "Die vertelt nooit nadelen",
+      "Die is betrouwbaar en deskundig",
+      "Die is altijd de duurste",
+      "Die komt alleen van reclame"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat doet de Consumentenbond?",
+    "options": [
+      "Iedereen een lening geven",
+      "Producten vergelijken en consumenten informeren",
+      "Alle producten produceren",
+      "De belasting bepalen"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat betekent garantie?",
+    "options": [
+      "Dat je nooit hoeft te betalen",
+      "Extra zekerheid dat een product in orde is",
+      "Dat je altijd contant moet betalen",
+      "Dat een product gratis is"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat moet een winkelier doen als een product niet deugt?",
+    "options": [
+      "Altijd niets doen",
+      "Het product herstellen, vervangen of geld teruggeven volgens de regels",
+      "De klant extra laten betalen",
+      "De bon verscheuren"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat is inkomen?",
+    "options": [
+      "Geld dat je ontvangt",
+      "Geld dat je leent aan een vriend",
+      "De prijs van je fiets",
+      "Geld dat je uitgeeft"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is loon of salaris?",
+    "options": [
+      "Inkomen dat je krijgt als je werkt voor een bedrijf",
+      "De prijs van een verzekering",
+      "Geld dat je uitgeeft aan kleding",
+      "Geld dat je betaalt in de winkel"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is winst?",
+    "options": [
+      "Inkomen dat je kunt verdienen met een eigen bedrijf",
+      "Een kassabon",
+      "Een vaste last",
+      "Een premie"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is een uitkering?",
+    "options": [
+      "Een bankpas",
+      "Geld dat je van de overheid ontvangt",
+      "Een prijskaartje",
+      "Een betaling voor boodschappen"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat zijn vaste lasten?",
+    "options": [
+      "Uitgaven die regelmatig terugkomen",
+      "Alleen onverwachte uitgaven",
+      "Alleen eenmalige cadeaus",
+      "Altijd gratis kosten"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat zijn huishoudelijke uitgaven?",
+    "options": [
+      "Alleen een fiets",
+      "Alleen een nieuwe wasmachine",
+      "Alleen een vakantie",
+      "Uitgaven voor bijvoorbeeld boodschappen"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat zijn incidentele uitgaven?",
+    "options": [
+      "Elke week hetzelfde abonnement",
+      "Dagelijkse boodschappen",
+      "Elke maand dezelfde huur",
+      "Grote uitgaven die je af en toe doet"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Je krijgt €30 zakgeld en €15 voor een klusje. Hoeveel geld ontvang je samen?",
+    "options": [
+      "€15",
+      "€35",
+      "€50",
+      "€45"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat is rente op spaargeld?",
+    "options": [
+      "Een boete voor sparen",
+      "De prijs van een brood",
+      "Een vergoeding van de bank voor je spaargeld",
+      "De premie van je verzekering"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat betekent geld lenen?",
+    "options": [
+      "Je eigen geld sparen",
+      "Geld op je rekening storten zonder afspraak",
+      "Gratis geld krijgen",
+      "Geld van iemand anders gebruiken dat je moet terugbetalen"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Wat is een maandtermijn bij een lening?",
+    "options": [
+      "Een verzekeringspolis",
+      "Het bedrag dat je elke maand terugbetaalt",
+      "Je zakgeld",
+      "Het bedrag op je spaarrekening"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat is aflossing?",
+    "options": [
+      "Een uitkering",
+      "De vergoeding voor sparen",
+      "Een schadevergoeding",
+      "Het deel van een lening dat je terugbetaalt"
+    ],
+    "correct": 3
+  },
+  {
+    "q": "Waarom kost geld lenen geld?",
+    "options": [
+      "Je betaalt meestal rente en soms extra kosten",
+      "Omdat je geld cadeau krijgt",
+      "Omdat aflossen verboden is",
+      "Omdat de bank altijd geld weggeeft"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is een verzekering?",
+    "options": [
+      "Een kassabon",
+      "Een betaalrekening",
+      "Een afspraak om financiële gevolgen van schade te vergoeden volgens voorwaarden",
+      "Een spaarpot"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wie is de verzekeraar?",
+    "options": [
+      "De verzekeringsmaatschappij",
+      "De persoon die geld leent",
+      "De winkelier",
+      "De klant die boodschappen doet"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wie is de verzekerde?",
+    "options": [
+      "Altijd de overheid",
+      "Degene die een verzekering afsluit",
+      "De producent",
+      "Altijd de bank"
+    ],
+    "correct": 1
+  },
+  {
+    "q": "Wat is premie?",
+    "options": [
+      "Het bedrag dat je betaalt voor een verzekering",
+      "Een cadeau van de bank",
+      "Geld dat je spaart",
+      "Het bedrag van je saldo"
+    ],
+    "correct": 0
+  },
+  {
+    "q": "Wat is een polis?",
+    "options": [
+      "Een winkelbon",
+      "Een lening",
+      "Het bewijs en de afspraken van je verzekering",
+      "Een pinpas"
+    ],
+    "correct": 2
+  },
+  {
+    "q": "Wat zijn polisvoorwaarden?",
+    "options": [
+      "Regels over wanneer je wel of geen vergoeding krijgt",
+      "Een bankcode",
+      "Een lijst met supermarkten",
+      "De prijs van een fiets"
+    ],
+    "correct": 0
+  }
+]
